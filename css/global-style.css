@@ -28,10 +28,14 @@
     display: flex;
 }
 
+#body-container nav {
+    margin-bottom: 20px;
+}
+
 #body-container nav ul {
     list-style: none;
     font-family:Arial, Helvetica, sans-serif;
-
+    
 }
 
 #body-container nav ul a {

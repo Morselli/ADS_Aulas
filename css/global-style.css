@@ -13,6 +13,8 @@
     font-size: 55px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding-top: 20px;
+    width: 100%;
+    margin: auto;
 }
 
 .heading a {
@@ -23,6 +25,10 @@
 #titulo {
     background-color: #e47833;
     height: 180px;
+}
+
+#cabecalho nav {
+    width: 100%;
 }
 
 #cabecalho nav ul {
@@ -40,7 +46,7 @@
     border-left: 2px solid black;
     text-decoration: none;
     color: black;
-    font-size: 22px;    
+    font-size: 18px;    
 }
 
 #cabecalho nav ul a:hover {

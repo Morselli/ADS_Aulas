@@ -1,0 +1,46 @@
+.aula a {
+    text-decoration: none;
+    color: black;
+}
+
+.aula h2 {
+    padding: 5px;
+}
+
+.aula h2:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+
+.aula {
+    width: 350px;
+    font-size: 12px;
+    background-color: #e47833;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#body-container .row-class {
+    display: flex;
+    margin: auto;
+    width: 730px;
+}
+
+.aulas-list1 {
+    width: 350px;
+    margin: 50px 20px 20px 0px;
+}
+
+.aulas-list2 {
+    width: 350px;
+    margin: 50px 0px 20px 0px;
+}
+
+.title {
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}

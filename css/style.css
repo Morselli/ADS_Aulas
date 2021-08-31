@@ -1,0 +1,23 @@
+.title {
+    padding-top: 150px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.title h2 {
+    font-size: 80px;
+}
+
+.title p {
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+.title .description {
+    font-size: 20px;
+}
+
+#body-container {
+    text-align: center;
+
+}
